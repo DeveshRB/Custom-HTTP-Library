@@ -3,7 +3,7 @@ I have created three folders which include three different ways in which you cou
 
 ## Folders
 
-#### - EasyHTTP
+#### Markup: * EasyHTTP
 Used AJAX and XHR to create a custom an HTTP Library
 
 #### - EasyHTTP-v2
