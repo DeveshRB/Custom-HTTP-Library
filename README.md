@@ -3,13 +3,13 @@ I have created three folders which include three different ways in which you cou
 
 ## Folders
 
-#### * EasyHTTP
+#### - EasyHTTP
 Used AJAX and XHR to create a custom an HTTP Library
 
-#### * EasyHTTP-v2
+#### - EasyHTTP-v2
 Used Fetch with Promises to create an HTTP Library
 
-#### * EasyHTTP-v3
+#### - EasyHTTP-v3
 Used Async and Await to create an HTTP Library
 
 
